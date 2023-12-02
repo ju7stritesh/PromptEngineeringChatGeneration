@@ -1,6 +1,6 @@
 ## LLama GPT
 
-### Components of Chat model
+### Components of OpenSourceGPTChat model
 
 - LLM - Large language model trained on large dataset to generate query response 
 - Prompt Template - Consists of :
